@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <algorithm>
 using namespace std;
-
+//2個測資TLE
 int main()
 {
 	int n, m;
